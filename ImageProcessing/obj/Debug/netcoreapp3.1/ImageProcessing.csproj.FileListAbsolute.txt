@@ -1,0 +1,9 @@
+C:\Users\Acer\source\repos\ImageProcessing\ImageProcessing\bin\Debug\netcoreapp3.1\ImageProcessing.deps.json
+C:\Users\Acer\source\repos\ImageProcessing\ImageProcessing\bin\Debug\netcoreapp3.1\ImageProcessing.dll
+C:\Users\Acer\source\repos\ImageProcessing\ImageProcessing\bin\Debug\netcoreapp3.1\ImageProcessing.pdb
+C:\Users\Acer\source\repos\ImageProcessing\ImageProcessing\obj\Debug\netcoreapp3.1\ImageProcessing.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ImageProcessing\ImageProcessing\obj\Debug\netcoreapp3.1\ImageProcessing.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ImageProcessing\ImageProcessing\obj\Debug\netcoreapp3.1\ImageProcessing.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ImageProcessing\ImageProcessing\obj\Debug\netcoreapp3.1\ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ImageProcessing\ImageProcessing\obj\Debug\netcoreapp3.1\ImageProcessing.dll
+C:\Users\Acer\source\repos\ImageProcessing\ImageProcessing\obj\Debug\netcoreapp3.1\ImageProcessing.pdb

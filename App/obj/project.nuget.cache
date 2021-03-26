@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pWVcTFTSDZHa5SxUTAiAf14DKr3t6eVr0dV4zGrC2MaX76dcRm+UedIYjl352OFlbcCmfwMrjablUFFD/2PIbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\source\\repos\\ImageProcessing\\App\\App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
